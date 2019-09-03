@@ -1,0 +1,4 @@
+#List of absolute paths to the csv files
+contentPath:
+  - C:\Test\Dir\test1.csv
+  - C:\Test\Dir\test2.csv
